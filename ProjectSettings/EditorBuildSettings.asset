@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/ThrowTest.unity
+    guid: d9ebbda736a253946a1a4e011152775e
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 4891f9972d453d84fae050eb09205606, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 3fc5cc2e2d5688c4cac4af1d73684d69, type: 2}
+  m_UseUCBPForAssetBundles: 0

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 909790d6f9c977546b3d38796a5108ab, type: 3}
+  m_Name: Rarity_Rare
+  m_EditorClassIdentifier: 
+  rarity: 1
+  modelPrefab: {fileID: 1756196088173523862, guid: 9216787b0b0a9be4091aa62ac12d0a07, type: 3}
+  bodyScale: 0.7
+  maxHp: 2
+  swimSpeed: 1.2
+  spawnWeight: 30

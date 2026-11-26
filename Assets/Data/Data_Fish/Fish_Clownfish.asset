@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8473f0498fc50234fb4c3de68a25ccf9, type: 3}
+  m_Name: Fish_Clownfish
+  m_EditorClassIdentifier: 
+  fishId: fish_01
+  displayName: "\u5C0F\u4E11\u9B5A"
+  rarity: 0
+  scenes: 1
+  material: {fileID: 0}
+  icon: {fileID: 0}
+  sellPrice: 10
+  description: "\u5716\u9451\u4ECB\u7D39\u6587\u5B57"
